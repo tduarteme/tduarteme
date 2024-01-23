@@ -13,3 +13,5 @@ Projetos.:
 
  Migração do Exchange 2013 para Office365
  Deploy Zabbix, integrado com Grafana e Telegram
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tduarteme&show_icons=true&theme=transparent)
