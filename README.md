@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá, seja bem-vindo(a) a minha página, é um prazer te conhecer.
 
-<!--
-**tduarteme/tduarteme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thiago Duarte.
 
-Here are some ideas to get you started:
+Possuo alguns anos de experiência em infraestrutura de TI, administrando servidores Linux e Windows Server, garantindo a disponibilidade e integridade dos serviços.
+Gestão de contratos (parque de máquinas, internet, telefonia e impressão).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando, AWS SAA (Solutions Architect Associate), Python e GitHub.
+
+Projetos.: 
+ Migração do Website para AWS;
+ Serviços utilizados (VPC, EC2, SG, IGW, RDS, ROUTE53)
+
+ Migração do Exchange 2013 para Office365
+ Deploy Zabbix, integrado com Grafana e Telegram
