@@ -3,6 +3,7 @@ Olá, seja bem-vindo(a) a minha página, é um prazer te conhecer.
 Meu nome é <b>Thiago Duarte</b>.
 
 Possuo alguns anos de experiência em infraestrutura de TI, administrando servidores Linux e Windows Server, garantindo a disponibilidade e integridade dos serviços.
+
 Gestão de contratos (parque de máquinas, internet, telefonia e impressão).
 
 Atualmente estou estudando, AWS SAA (Solutions Architect Associate), Python e GitHub.
